@@ -1,0 +1,49 @@
+
+body {
+    font-size: 16px;
+    display: flex;
+    flex-direction: column;
+}
+header {
+    padding: 30px;
+    background-color: rgb(91, 145, 245);
+    text-align: left;
+}
+
+#head {
+    text-align: right;
+
+}
+
+
+nav {
+    display: block;
+    background-color: lightgreen;
+    padding: 10px;
+    text-align: right;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: white;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+ul {
+    display: inline-flex;
+}
+
+footer {
+    display: inline-flex;
+    background-color: rgb(91, 145, 245);
+    align-items: center;
+    justify-content: space-around;
+}
