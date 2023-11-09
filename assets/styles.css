@@ -11,10 +11,9 @@ header {
 }
 
 #head {
-    text-align: right;
-
+    padding-top: 10px;
+    font-size: 20px;
 }
-
 
 nav {
     display: block;
@@ -32,18 +31,27 @@ a:hover {
     color: white;
 }
 
+main {
+
+}
+
 img {
     width: 200px;
     height: 200px;
 }
 
-ul {
-    display: inline-flex;
+h5 {
+    align-items: left;
 }
 
 footer {
     display: inline-flex;
+    width: 100%;
     background-color: rgb(91, 145, 245);
-    align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
+    padding: 80px 80px 0px;
+}
+
+#foot {
+    padding: ;
 }
