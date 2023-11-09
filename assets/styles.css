@@ -31,10 +31,6 @@ a:hover {
     color: white;
 }
 
-main {
-
-}
-
 img {
     width: 200px;
     height: 200px;
@@ -42,13 +38,19 @@ img {
 
 
 footer {
-    display: inline-flex;
+    bottom: 0;
     width: 100%;
+    padding: 20px;
+    text-align: center;
     background-color: rgb(91, 145, 245);
-    justify-content: space-between;
-    padding: 80px 80px 0px;
 }
 
-#foot {
-    padding: ;
+ul {
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+}
+
+@media screen {
+    
 }
