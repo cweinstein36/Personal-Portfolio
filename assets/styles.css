@@ -1,9 +1,9 @@
 
 body {
+    display: block;
     font-size: 16px;
-    display: flex;
-    flex-direction: column;
 }
+
 header {
     padding: 30px;
     background-color: rgb(91, 145, 245);
@@ -16,20 +16,26 @@ header {
 }
 
 nav {
-    display: block;
     background-color: lightgreen;
     padding: 10px;
     text-align: right;
 }
 
-a {
+nav a {
     text-decoration: none;
     color: black;
+    padding: 20px;
+}
+
+main a {
+    text-decoration: none;
+    color: blue;
 }
 
 a:hover {
     color: white;
 }
+
 
 img {
     width: 200px;
@@ -40,17 +46,18 @@ img {
 footer {
     bottom: 0;
     width: 100%;
-    padding: 20px;
+    padding: 10px;
     text-align: center;
     background-color: rgb(91, 145, 245);
 }
 
-ul {
+footer ul {
     display: flex;
-    padding: 20px;
+    padding: 10px;
     justify-content: space-around;
 }
 
-@media screen {
-    
+footer a {
+    text-decoration: none;
+    color: black;
 }
