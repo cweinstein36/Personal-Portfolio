@@ -27,16 +27,27 @@ nav a {
     padding: 20px;
 }
 
+a:hover {
+    color: white;
+}
+
 main a {
     text-decoration: none;
     color: blue;
 }
 
-a:hover {
-    color: white;
+footer a {
+    text-decoration: none;
+    color: black;
 }
 
-
+h2 {
+    font-size: 25px;
+    text-decoration: underline;
+}
+.Aboutme {
+    border-style: solid black;
+}
 img {
     width: 200px;
     height: 200px;
@@ -57,7 +68,3 @@ footer ul {
     justify-content: space-around;
 }
 
-footer a {
-    text-decoration: none;
-    color: black;
-}
