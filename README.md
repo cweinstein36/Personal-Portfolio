@@ -9,6 +9,9 @@ None required as this is a webpage document to display my personal information.
 ## Usage
 This should and hopefully used by future employers to see my professional information
 
+## Credits
+
+<a href="https://www.freepik.com/free-photo/resumes-desk_10323300.htm#query=resume%20clip%20art&position=1&from_view=search&track=ais&uuid=21d1de86-823e-4f83-9a22-66fd9caadaea">Image by Racool_studio</a> on Freepik
 
 ## MIT License
 
