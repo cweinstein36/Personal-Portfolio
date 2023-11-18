@@ -2,6 +2,7 @@
 body {
     font-size: 16px;
     text-wrap: wrap;
+    width: auto;
 }
 
 header {
@@ -36,6 +37,7 @@ a:hover {
 }
 
 h2 {
+    position: relative;
     font-size: 30px;
     padding: 10px;
     text-decoration: underline;
@@ -65,15 +67,15 @@ main {
 
 .Projects {
     width: auto;
-    margin-left: 200px;
+    margin-left: 150px;
 }
 
 
 img {
     position: absolute;
     left: 25px;
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
 }
 
 .responsive {
@@ -109,7 +111,7 @@ footer a {
     main,
     nav,
     img,
-    footer {
+    footer ul {
         display: flex;
         flex-direction: column;
     }
@@ -117,24 +119,50 @@ footer a {
     header {
         background: #772014;
     }
-    nav {
-        padding: 10px;
-        flex-direction: column;
-    }
-
+    
     footer {
         background-color: #bb8588;
+    }
+
+    nav a {
+        padding-top: 15px;
+        padding-bottom: 15px;
     }
 }
  
 @media screen and (max-width: 768px) {
     main,
     nav,
-    footer {
+    footer ul {
         display: flex;
         flex-direction: column;
     }
-    aside {
-        order: 1;
+
+    nav a {
+        padding-top: 10px;
+        padding-bottom: 10px;
     }
+}
+
+@media screen and (max-width: 576px) {
+    main,
+    nav,
+    footer ul {
+        display: flex;
+        flex-direction: column;
+    }
+
+    header {
+        background-color: aqua;
+    }
+
+    nav a {
+        padding-top: 2px;
+        padding-bottom: 2px;
+    }
+
+    footer{
+        background-color: aqua;
+    }
+
 }
