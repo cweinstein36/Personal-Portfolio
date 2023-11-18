@@ -133,6 +133,7 @@ footer a {
 @media screen and (max-width: 768px) {
     main,
     nav,
+    img,
     footer ul {
         display: flex;
         flex-direction: column;
@@ -147,6 +148,7 @@ footer a {
 @media screen and (max-width: 576px) {
     main,
     nav,
+    img,
     footer ul {
         display: flex;
         flex-direction: column;
