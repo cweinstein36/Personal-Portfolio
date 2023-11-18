@@ -1,4 +1,4 @@
-# ModuleChallenge2
+# Portfolio Project
 
 ## Description
 Even week of the module challenges, were we had to make our own html and css into our own Portfolio applying what we have learned in class. This is to cemement the basics into us by directly using these skills and more that we have yet to learn. This project gives us real world experince in using git hub, reset sheets, style sheets and some javascript. Working on this also gave me some experience in researching new topics and skills that I had yet to learn and apply. 
