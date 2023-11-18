@@ -99,25 +99,27 @@ footer a {
 
 
 @media screen and (max-width: 768px) {
- main,
- nav {
-     flex-direction: column;
- }
- aside {
-     order: 2;
- }
- header {
-     background: #772014;
- }
- nav,
- footer {
-     background-color: #bb8588;
- }
+    main,
+    nav,
+    footer {
+        flex-direction: column;
+    }
+    aside {
+        order: 2;
+    }
+    header {
+        background: #772014;
+    }
+    nav,
+    footer {
+        background-color: #bb8588;
+    }
 }
  
 @media screen and (max-width: 576px) {
     main,
-    nav {
+    nav,
+    footer {
         flex-direction: column;
     }
 }
