@@ -67,7 +67,7 @@ main {
 
 .Projects {
     width: auto;
-    margin-left: 150px;
+    margin-left: 100px;
 }
 
 
@@ -110,7 +110,6 @@ footer a {
 @media screen and (max-width: 992px) {
     main,
     nav,
-    img,
     footer ul {
         display: flex;
         flex-direction: column;
@@ -133,11 +132,17 @@ footer a {
 @media screen and (max-width: 768px) {
     main,
     nav,
-    img,
     footer ul {
         display: flex;
         flex-direction: column;
     }
+
+    img {
+        margin: 25px;
+        width: 150px;
+        height: 150px;
+    }
+
 
     nav a {
         padding-top: 10px;
@@ -148,10 +153,19 @@ footer a {
 @media screen and (max-width: 576px) {
     main,
     nav,
-    img,
     footer ul {
         display: flex;
         flex-direction: column;
+    }
+
+    img {
+        margin: 15px;
+        width: 100px;
+        height: 100px;
+    }
+
+    main {
+        margin: 0px;
     }
 
     header {
