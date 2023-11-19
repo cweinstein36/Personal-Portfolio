@@ -7,10 +7,14 @@ Even week of the module challenges, were we had to make our own html and css int
 None required as this is a webpage document to display my personal information. 
 
 ## Usage
-This should and hopefully used by future employers to see my professional information
+This should and hopefully used by future employers to see my professional information.
+
+
 
 ## Credits
 Free use photos for each sections have been pulled from a freepik.com.
+
+About me section photo credits: <a href="https://www.freepik.com/free-photo/document-marketing-strategy-business-concept_18043307.htm#query=projects%20clip%20arty&position=2&from_view=search&track=ais&uuid=93ab9e9d-2d31-400c-83f2-aa607301a5b6">Image by rawpixel.com</a> on Freepik
 
 Projects section photo credits: <a href="https://www.freepik.com/free-photo/document-marketing-strategy-business-concept_18043307.htm#query=projects%20clip%20arty&position=2&from_view=search&track=ais&uuid=93ab9e9d-2d31-400c-83f2-aa607301a5b6">Image by rawpixel.com</a> on Freepik
 
