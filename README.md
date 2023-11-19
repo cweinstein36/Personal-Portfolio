@@ -8,9 +8,16 @@ None required as this is a webpage document to display my personal information.
 
 ## Usage
 This should and hopefully used by future employers to see my professional information.
+ 
+ Here is the deployed link of the webpage: https://cweinstein36.github.io/Personal-Portfolio/
 
+ '''md
+ ![alt text](assets/screenshots/Screenshot%202023-11-18%20155619.png)
+ '''
 
-
+ '''md 
+ ![alt text](assets/screenshots/Screenshot%202023-11-18%20155725.png)
+ 
 ## Credits
 Free use photos for each sections have been pulled from a freepik.com.
 
