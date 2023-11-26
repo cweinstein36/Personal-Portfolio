@@ -17,6 +17,7 @@ This should and hopefully used by future employers to see my professional inform
 
  '''md 
  ![alt text](assets/screenshots/Screenshot%202023-11-18%20155725.png)
+ '''
  
 ## Credits
 Free use photos for each sections have been pulled from a freepik.com.
